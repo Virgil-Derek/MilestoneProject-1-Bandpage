@@ -1,7 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap:100,200,300,400,500,600,700|Crimson+Text:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap:100,200,300,400,500,600,700');
+
+/*------------------------------------------ Colours*/
+.bg-color-name-title {
+    background-color: #726c6c;
+
+}
+
+/*-------------------------------------------Heading */
 
 header {
     margin:0;
+}
+
+.heading {
+
 }
 
 .logo {
@@ -15,3 +29,32 @@ header {
     -webkit-transition: all .5s ease-in-out;
 
 }
+
+.alias {
+    background: url("../images/Pictures.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    float: right;
+
+.name {
+    font-family: "New Tegomin", "Crimson Text", sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    margin-top: 50px;
+    color: #770707;
+}
+
+.title {
+    font-family:"Crimson Text", "New Tegomin", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #770707;
+}
+
