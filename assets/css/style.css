@@ -8,6 +8,19 @@
 
 }
 
+.ui-menu-color-home {
+    background-color: rgb(145, 140, 134);
+}
+.ui-menu-color-Music {
+    background-color: rgb(145, 140, 134);
+}
+.ui-menu-color-Tour {
+    background-color: rgb(145, 140, 134);
+}
+.ui-menu-color-Signup {
+    background-color: rgb(145, 140, 134);
+}
+
 /*-------------------------------------------Heading */
 
 header {
@@ -15,6 +28,7 @@ header {
 }
 
 .heading {
+    margin-left: 50px;
 
 }
 
