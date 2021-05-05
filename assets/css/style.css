@@ -1,24 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap:100,200,300,400,500,600,700');
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap:100,200,300,400,500,600,700');
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap:100,200,300,400,500,600,700');
 
 /*------------------------------------------ Colours*/
 .bg-color-name-title {
-    background-color: #726c6c;
+    background-color: #000000;
 
 }
 
 .ui-menu-color-home {
-    background-color: rgb(145, 140, 134);
+    background-color: #48005c9c;
 }
 .ui-menu-color-Music {
-    background-color: rgb(145, 140, 134);
+    background-color: #456685
 }
 .ui-menu-color-Tour {
-    background-color: rgb(145, 140, 134);
+    background-color: #7895ed;
 }
 .ui-menu-color-Signup {
-    background-color: rgb(145, 140, 134);
+    background-color: #eeeeee;
 }
 
 /*-------------------------------------------Heading */
@@ -48,18 +49,18 @@ header {
 
 .name {
     font-family: "New Tegomin", "Crimson Text", sans-serif;
-    font-weight: 100;
-    font-size: 46px;
+    font-weight: 200;
+    font-size: 86px;
     margin-top: 50px;
-    color: #770707;
+    color: #ffffff;
 }
 
 .title {
-    font-family:"Crimson Text", "New Tegomin", sans-serif;
+    font-family: "Shadows Into Light", "Crimson Text", "New Tegomin", sans-serif;
     font-weight: 200;
-    font-size: 28px;
+    font-size: 68px;
     margin-top: 20px;
     margin-bottom: 90px;
-    color: #770707;
+    color: #ec7777e1;
 }
 
