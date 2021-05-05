@@ -42,6 +42,7 @@ header {
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
+    
 
 }
 
@@ -53,6 +54,7 @@ header {
     font-size: 86px;
     margin-top: 50px;
     color: #ffffff;
+    text-align: center;
 }
 
 .title {
@@ -62,5 +64,6 @@ header {
     margin-top: 20px;
     margin-bottom: 90px;
     color: #ec7777e1;
+    text-align: center;
 }
 
