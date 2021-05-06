@@ -3,67 +3,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap:100,200,300,400,500,600,700');
 @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap:100,200,300,400,500,600,700');
 
-/*------------------------------------------ Colours*/
-.bg-color-name-title {
-    background-color: #000000;
 
-}
-
-.ui-menu-color-home {
-    background-color: #48005c9c;
-}
-.ui-menu-color-Music {
-    background-color: #456685
-}
-.ui-menu-color-Tour {
-    background-color: #7895ed;
-}
-.ui-menu-color-Signup {
-    background-color: #eeeeee;
-}
-
-/*-------------------------------------------Heading */
-
-header {
-    margin:0;
-}
-
-.heading {
-    margin-left: 50px;
-
-}
-
-.logo {
-    background: url("../images/Cover-Image.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 360px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+/*--------------------------------------------------------------------colours*/
+.body{
+    background-color: antiquewhite;
     
-
 }
 
-
-
-.name {
-    font-family: "New Tegomin", "Crimson Text", sans-serif;
-    font-weight: 200;
-    font-size: 86px;
-    margin-top: 50px;
-    color: #ffffff;
-    text-align: center;
+.header {
+    background-color: black;
 }
 
-.title {
-    font-family: "Shadows Into Light", "Crimson Text", "New Tegomin", sans-serif;
-    font-weight: 200;
-    font-size: 68px;
-    margin-top: 20px;
-    margin-bottom: 90px;
-    color: #ec7777e1;
-    text-align: center;
-}
+/*--------------------------------------------------------------------colours*/
+
+
+/*--------------------------------------------------------------------heading*/
+
+
+
+/*---------------------------------------------------------------------heading*/
+
 
